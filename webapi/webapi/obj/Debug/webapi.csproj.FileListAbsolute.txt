@@ -1,0 +1,14 @@
+D:\PROJECT C#\LATIHAN\webapi\webapi\bin\webapi.dll.config
+D:\PROJECT C#\LATIHAN\webapi\webapi\bin\webapi.dll
+D:\PROJECT C#\LATIHAN\webapi\webapi\bin\webapi.pdb
+D:\PROJECT C#\LATIHAN\webapi\webapi\bin\Newtonsoft.Json.dll
+D:\PROJECT C#\LATIHAN\webapi\webapi\bin\System.Net.Http.Formatting.dll
+D:\PROJECT C#\LATIHAN\webapi\webapi\bin\System.Web.Http.dll
+D:\PROJECT C#\LATIHAN\webapi\webapi\bin\System.Web.Http.WebHost.dll
+D:\PROJECT C#\LATIHAN\webapi\webapi\bin\Newtonsoft.Json.xml
+D:\PROJECT C#\LATIHAN\webapi\webapi\bin\System.Net.Http.Formatting.xml
+D:\PROJECT C#\LATIHAN\webapi\webapi\bin\System.Web.Http.xml
+D:\PROJECT C#\LATIHAN\webapi\webapi\bin\System.Web.Http.WebHost.xml
+D:\PROJECT C#\LATIHAN\webapi\webapi\obj\Debug\webapi.csprojResolveAssemblyReference.cache
+D:\PROJECT C#\LATIHAN\webapi\webapi\obj\Debug\webapi.dll
+D:\PROJECT C#\LATIHAN\webapi\webapi\obj\Debug\webapi.pdb
